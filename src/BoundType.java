@@ -40,16 +40,16 @@ class C extends A
 
 public class BoundType {
 
-	public static void main(String[] args) {
-			
-			Bound<C> bec = new Bound<C> (new C());
-			bec.doRunTest();
-			
-			Bound<B> beb = new Bound<B> (new B());
-			beb.doRunTest();
-			
-			Bound<A> bea = new Bound<A> (new A());
-			bea.doRunTest();
-			
-		}
+//	public static void main(String[] args) {
+//			
+//			Bound<C> bec = new Bound<C> (new C());
+//			bec.doRunTest();
+//			
+//			Bound<B> beb = new Bound<B> (new B());
+//			beb.doRunTest();
+//			
+//			Bound<A> bea = new Bound<A> (new A());
+//			bea.doRunTest();
+//			
+//		}
 }
