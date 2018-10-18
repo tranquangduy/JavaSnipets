@@ -47,12 +47,12 @@ public class BubbleSort {
 	}
 
 
-	public static void main(String[] args) {
-		int[] array = new int[]{41, 89, 45, 29, 26, 12, 13, 50, 9};
-		BubbleSort bubbleSort = new BubbleSort();
-		bubbleSort.sort(array);
-		bubbleSort.printArray(array);
-	}
+//	public static void main(String[] args) {
+//		int[] array = new int[]{41, 89, 45, 29, 26, 12, 13, 50, 9};
+//		BubbleSort bubbleSort = new BubbleSort();
+//		bubbleSort.sort(array);
+//		bubbleSort.printArray(array);
+//	}
 
 
 }
