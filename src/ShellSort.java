@@ -27,11 +27,11 @@ public class ShellSort {
 
 	}
 
-	public static void main(String[] args) {
-		int[] array = new int[] { 41, 89, 45, 29, 26, 12, 13, 50, 9 };
-		ShellSort shellSort = new ShellSort();
-		shellSort.sort(array);
-		shellSort.printArray(array);
-	}
+//	public static void main(String[] args) {
+//		int[] array = new int[] { 41, 89, 45, 29, 26, 12, 13, 50, 9 };
+//		ShellSort shellSort = new ShellSort();
+//		shellSort.sort(array);
+//		shellSort.printArray(array);
+//	}
 
 }
